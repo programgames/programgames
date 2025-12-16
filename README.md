@@ -21,7 +21,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a e-commerce/Api platform using OroCommerce and ApiPlatform**
-- 🌱 I'm currently learning: **📚 Exploring Godot**
+- 🌱 I'm currently learning: **📚 More Java, using AI agents, Symfony in depth, Assembler **
 - 💬 Ask me about: **OroCommerce**
 - ⚡ Fun fact: **I'm a Pokeapi contributor**
 
